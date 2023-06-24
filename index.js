@@ -55,6 +55,7 @@ function renderGame() {
 }
 
 
+
 function newCard() {
     if (isAlive === true && hasBlackJack === false) {
         let card = getRandomCard()
